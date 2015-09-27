@@ -1,0 +1,22 @@
+{
+  "name": "live-paper",
+  "version": "0.0.1",
+  "description": "Basic Wrapper around HP Live Paper REST Api",
+  "author": {
+    "name": "Cantidio Fontes",
+    "email": "aniquilatorbloody@gmail.com"
+  },
+  "contributors": [
+    "Cantidio Fontes <aniquilatorbloody@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cantidio/live_paper_node.git"
+  },
+  "dependencies": {
+  },
+  "main": "lib/live_paper",
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
